@@ -21,17 +21,17 @@ msgstr ""
 #: account/models.py:38
 #, fuzzy
 msgid "mood"
-msgstr "модель:"
+msgstr "настроение"
 
 #: account/models.py:39
 #, fuzzy
 msgid "image"
-msgstr "сообщение"
+msgstr "изображение"
 
 #: account/models.py:40 editor/models.py:93 editor/models.py:137
 #: editor/models.py:291
 msgid "description"
-msgstr ""
+msgstr "описание"
 
 #: account/models.py:41 account/models.py:56 editor/models.py:233
 #: editor/models.py:354 editor/models.py:447 editor/models.py:459
